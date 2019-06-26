@@ -1,0 +1,2 @@
+When creating virtual env on usb drive make sure it is formatted as NTFS
+FAT32 doesnt allow symbolic links
